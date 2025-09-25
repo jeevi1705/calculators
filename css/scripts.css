@@ -1,0 +1,86 @@
+*{
+    margin:0px;
+    padding:0px;
+color:black;
+}
+.mines{
+  background-image: url(https://img.freepik.com/free-vector/watercolor-soft-earth-tones-background_23-2151155668.jpg?semt=ais_hybrid&w=740&q=80);
+  height:120vh;
+}
+.data{
+    text-align: center;
+    position:relative;
+    top:40px;
+    right:50px;
+  
+
+}
+input{
+    height:70px;
+    width:600px;
+    font-size:35px;
+    border-radius: 30px;
+    border-color: black;
+    padding-right: 30px;
+    text-align: end;
+    box-shadow:inset 5px 5px 5px gray, 6px 6px 6px rgba(128, 128, 128, 0.726);
+    
+
+}
+
+.datas{
+    text-align: center;
+    position:relative;
+    top:60px;
+    right:50px;
+}
+button{
+height:90px;
+width:160px;
+font-size: 35px;
+background-color: beige;
+border-radius: 60px;
+padding:20px;
+box-shadow:inset 5px 5px 5px gray, 6px 6px 6px rgba(128, 128, 128, 0.726);
+margin:0.3rem;
+
+
+
+}
+.dd{
+background-color: aqua;
+}
+.dd:hover{
+    background-color: cadetblue;
+}
+button:hover{
+    background-color: chocolate;
+    color:black
+}
+h1{
+    text-align: center;
+    position:relative;
+    top:20px;
+    right:40px;
+}
+.com{
+    padding:10px;
+    
+    
+}
+.rr
+{
+    padding:10px;
+}
+.pp
+{
+    padding:10px;
+}
+.ss
+{
+    padding:10px;
+}
+.program
+{
+    padding:10px;
+}
